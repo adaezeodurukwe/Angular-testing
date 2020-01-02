@@ -30,5 +30,5 @@ describe('HeroService', () => {
       const req = httpTestingController.expectOne('api/heroes/4');
       req.flush({ id: 4, name: 'superDude', strength: 10 })
     });
-  })
+  });
 });
