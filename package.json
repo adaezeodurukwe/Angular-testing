@@ -28,7 +28,7 @@
     "core-js": "2.5.4",
     "jquery": "3.4.1",
     "rxjs": "6.5.3",
-    "serialize-javascript": "^2.1.2",
+    "serialize-javascript": "^4.0.0",
     "toastr": "2.1.4",
     "zone.js": "~0.9.1"
   },
